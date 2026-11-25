@@ -31,12 +31,8 @@ Creating a complete AWS environment infrastructure provisioned entirely with Ter
 └── README.md
 
 
-
-
-
  Execution is done on the main.tf files for both dev and prod. The goal is to create a whole AWS environment using Iac terraform that includes VPC networking, Postgres RDS, EC2 instances, S3 buckect for app storage, Security Group with least-privilage rule.
-
- The whole infrastructure can be cloned/downloaded fro the repo for your own use.
+The whole infrastructure can be cloned/downloaded fro the repo for your own use.
  
 
    
